@@ -1,0 +1,5 @@
+name: Task
+version: ${project.version}
+main: cn.mappyj.mc.TaskPlugin
+depend: [Vault, PlaceHolderAPI]
+authors: [MappyJ]
